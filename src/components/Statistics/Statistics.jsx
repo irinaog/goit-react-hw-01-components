@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 // import css from './Profile.module.css';
 
-export const Statistics({title, stats}) => {
+export const Statistics = ({title, stats}) => {
     return (
         <section class="statistics">
   <h2 class="title">Upload stats</h2>
