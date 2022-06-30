@@ -29,8 +29,8 @@ text-align: center;
 grid-template-rows: 30px 30px;
 gap: 10px;
 
-background-color: rgb(147, 147, 147);
-border: 1px solid rgba(106, 106, 106, 0.723);
+/* background-color: rgb(147, 147, 147); */
+/* border: 1px solid rgba(106, 106, 106, 0.723); */
 
 }
 
