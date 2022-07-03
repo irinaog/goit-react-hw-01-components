@@ -14,9 +14,7 @@ export const Statistics = ({ title, stats }) => {
           <span className={css.label}>{data.label}</span>
           <span className={css.percentage}>{data.percentage}%</span>
         </li>
-        ))};
-         
-        
+        ))} 
       </ul>
     </section>
   )
