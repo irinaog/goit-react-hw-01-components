@@ -25,11 +25,10 @@ export const App = () => {
            
         
             
-            {friends.map(friend => (
+            
                 <FriendList
-                    key={friend.id}
-                friends={friend} />
-            ))}
+                friends={friends} />
+           
            
             
                 <TransactionHistory
